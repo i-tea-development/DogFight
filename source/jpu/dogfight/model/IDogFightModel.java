@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * IDogFightModel
  */
-public interface IDogFightModel {
+public interface IDogfightModel {
 
     public IArea getArea();
 

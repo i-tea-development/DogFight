@@ -10,7 +10,7 @@ import java.util.Observable;
  */
 public class GameFrame implements KeyListener {
 
-    @SuppressWarnings("unused")
+    //@SuppressWarnings("unused")
 	private final IEventPerformer eventPerformer;
 
 	public GameFrame(String title, IEventPerformer performer, IGraphicsBuilder graphicsBuilder, Observable observable) {

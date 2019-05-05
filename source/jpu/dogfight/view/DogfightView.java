@@ -3,7 +3,7 @@ package source.jpu.dogfight.view;
 import java.util.Observable;
 
 import source.jpu.dogfight.controller.IOrderPerformer;
-import source.jpu.dogfight.model.IDogFightModel;
+import source.jpu.dogfight.model.IDogfightModel;
 import source.jpu.gameframe.GameFrame;
 
 /**

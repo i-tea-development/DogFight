@@ -3,7 +3,7 @@ package source.jpu.dogfight.controller;
 import java.io.IOException;
 
 import source.jpu.dogfight.model.Direction;
-import source.jpu.dogfight.model.IDogFightModel;
+import source.jpu.dogfight.model.IDogfightModel;
 import source.jpu.dogfight.model.IMobile;
 import source.jpu.dogfight.model.Missile;
 import source.jpu.dogfight.model.Position;
@@ -122,6 +122,4 @@ public class DogfightController implements IOrderPerformer{
 		}
 		return false;
 	} 
-
-    
 }

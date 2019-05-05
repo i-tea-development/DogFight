@@ -6,8 +6,9 @@ import java.awt.Transparency;
 import java.awt.image.BufferedImage;
 import java.awt.image.ImageObserver;
 
-import source.jpu.dogfight.model.IDogFightModel;
+import source.jpu.dogfight.model.IDogfightModel;
 import source.jpu.dogfight.model.IMobile;
+import source.jpu.gameframe.IGraphicsBuilder;
 
 /**
  * GraphicsBuilder

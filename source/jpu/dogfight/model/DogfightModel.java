@@ -1,5 +1,9 @@
 package source.jpu.dogfight.model;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Observable;
+
 /**
  * DogfightModel
  */
